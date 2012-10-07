@@ -13,3 +13,21 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore bundler config
+/.bundle
+
+# Ingore the default SQLite database.
+/db/*.sqlite3
+
+#Ingore all logfiels and tempfiles
+/log/*.log
+/tmp
+
+# Ingnore other unneeded files 
+doc/
+*.swp
+*~
+.project
+.DS_Store
+bundler_stubs/
